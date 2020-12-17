@@ -4,4 +4,5 @@
 .idea
 
 application-oauth.properties
+
 application-google.properties
